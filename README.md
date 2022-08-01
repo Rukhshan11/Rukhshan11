@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rukhshan11
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Python and Dta Science
+- 🌱 I’m currently learning Data Science & Machine Learning.
 - 💞️ I’m looking to collaborate on Python Projects.
 - 📫 How to reach me rukhshan010@gmail.com
 
